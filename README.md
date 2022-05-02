@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Me chamo Igor, sou desenvolvedor de <strong>Softwares Web</strong>, na parte de <strong>Front-End</strong>.<br>
-  Atualmente focado nos estudos, em especial do ecosistema JS (Next, React & Node).
+  Atualmente estudando TS e NodeJS.
 </p>
 
 <p align="left">
-  🦄 Linguagens & Tecnologias: <strong>JavaScript, HTML, CSS, Sass.</strong>
+  🦄 Linguagens & Tecnologias: <strong>JavaScript, ReactJS, NextJS, HTML, CSS, Sass, Bootstrap, Styled Components.</strong>
 </p>
 
 <p align="left">
