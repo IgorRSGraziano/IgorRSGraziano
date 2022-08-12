@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Me chamo Igor, sou desenvolvedor de <strong>Softwares Web</strong>, na parte de <strong>Front-End</strong>.<br>
-  Atualmente estudando TS e NodeJS.
+  Me chamo Igor, sou desenvolvedor de <strong>Softwares Web</strong> <strong>Full Stack</strong>.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens & Tecnologias: <strong>JavaScript, ReactJS, NextJS, HTML, CSS, Sass, Bootstrap, Styled Components.</strong>
+  🦄 Linguagens & Tecnologias: <strong>JavaScript, ReactJS, NextJS, HTML, CSS, Sass, Bootstrap, Styled Components, Prisma, TypeScript, C#/.NET Core.</strong>
 </p>
 
 <p align="left">
